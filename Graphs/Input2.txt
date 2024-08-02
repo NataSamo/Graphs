@@ -1,0 +1,11 @@
+undirected
+weighted
+Saratov Moskva 1 Penza 1 Sochi 3
+Moskva Saratov 1 Samara 2 Penza 1 Kazan 2 Tula 1 Kaliningrad 4 Sochi 4
+Samara Moskva 2 Sochi 3
+Penza Moskva 1 Saratov 1 Chita 2
+Kazan Moskva 2 Kaliningrad 1 
+Tula Moskva 1
+Kaliningrad Moskva 4 Kazan 1
+Chita Penza 2
+Sochi Saratov 3 Moskva 4 Samara 3

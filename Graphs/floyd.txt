@@ -1,0 +1,6 @@
+undirected
+weighted
+a b 1 c 100000000 d 500
+b
+c b 10000000 c -1
+d

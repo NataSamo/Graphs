@@ -1,0 +1,5 @@
+undirected
+unweighted
+Paris Singapur
+Singapur Chikago Paris
+Chikago Singapur

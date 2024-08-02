@@ -1,0 +1,14 @@
+undirected
+unweigted
+a d e f g h i j k l 
+b c f g h i j k l 
+c b d f g h i j k l 
+d a c e h i j k l 
+e a d i j k l 
+f a b c g h i j k l 
+g a b c f k l 
+h a b c d f i l 
+i a b c d e f h k 
+j a b c d e f k 
+k a b c d e f g i j l 
+l a b c d e f g h k 
